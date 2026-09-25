@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/*.csv
+!data/.gitkeep
+models/*
+!models/.gitkeep
+*.joblib
+.streamlit/secrets.toml
+.DS_Store
